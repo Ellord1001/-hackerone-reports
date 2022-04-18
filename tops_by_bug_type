@@ -1,0 +1,422 @@
+Top CSRF reports from HackerOne:
+
+CSRF on connecting Paypal as Payment Provider to Shopify - 285 upvotes, $500
+Account Takeover using Linked Accounts due to lack of CSRF protection to Rockstar Games - 227 upvotes, $1000
+Periscope android app deeplink leads to CSRF in follow action to Twitter - 204 upvotes, $1540
+Chaining Bugs: Leakage of CSRF token which leads to Stored XSS and Account Takeover (xs1.tribalwars.cash) to InnoGames - 186 upvotes, $1100
+Site wide CSRF affecting both job seeker and Employer account on glassdoor.com to Glassdoor - 150 upvotes, $3000
+CSRF leads to a stored self xss to Imgur - 140 upvotes, $500
+Slack integration setup lacks CSRF protection to HackerOne - 134 upvotes, $2500
+Lack of CSRF header validation at https://g-mail.grammarly.com/profile to Grammarly - 129 upvotes, $750
+Cross-Site Request Forgery (CSRF) vulnerability on API endpoint allows account takeovers to Khan Academy - 100 upvotes, $0
+CSRF Vulnerability on https://signin.rockstargames.com/tpa/facebook/link/ to Rockstar Games - 98 upvotes, $1000
+CSRF to HTML Injection in Comments to WordPress - 94 upvotes, $950
+One Click Account takeover using Ouath CSRF bypass by adding Null byte %00 in state parameter on www.streamlabs.com to Logitech - 85 upvotes, $200
+CSRF in Account Deletion feature (https://www.flickr.com/account/delete) to Flickr - 82 upvotes, $750
+Account takeover at https://try.discourse.org due to no CSRF protection in connecting Yahoo account to Discourse - 81 upvotes, $512
+[CRITICAL] Full account takeover using CSRF to Twitter - 78 upvotes, $5040
+CSRF token validation system is disabled on Stripe Dashboard to Stripe - 77 upvotes, $2500
+Japan - CSRF in webapp.starbucks.co.jp with user interaction could leak an access token if the user was not using Chrome to Starbucks - 69 upvotes, $1050
+CSRF on /api/graphql allows executing mutations through GET requests to GitLab - 65 upvotes, $3370
+CSRF protection bypass on any Django powered site via Google Analytics to Django - 65 upvotes, $1000
+Login CSRF vulnerability on hackerone.com to HackerOne - 65 upvotes, $500
+CSRF on Periscope Web OAuth authorization endpoint to Twitter - 63 upvotes, $2520
+CSRF to change password to Nord Security - 59 upvotes, $300
+[Admin Panel] CSRF to resume/pause runner to GitLab - 56 upvotes, $500
+CSRF Trial 14 days express subscription to Instacart - 55 upvotes, $300
+Periscope iOS app CSRF in follow action due to deeplink to Twitter - 52 upvotes, $2940
+CSRF combined with IDOR within Document Converter exposes files to Open-Xchange - 52 upvotes, $500
+CSRF-tokens on pages without no-cache headers, resulting in ATO when using CloudFlare proxy (Web Cache Deception) to Discourse - 49 upvotes, $256
+apps.shopify.com - CSRF token leakage through Google Analytics to Shopify - 46 upvotes, $500
+Login CSRF : Login Authentication Flaw on https://liberapay.com/ to Liberapay - 42 upvotes, $0
+(HackerOne SSO-SAML) Login CSRF, Open Redirect, and Self-XSS Possible Exploitation to HackerOne - 41 upvotes, $0
+Cross-site request forgery vulnerability resulting in the deletion of a user's account. to ██████ - 41 upvotes, $0
+[CRITICAL] Full account takeover using CSRF to Bumble - 39 upvotes, $852
+CSRF in changing users donation_settings [https://streamlabs.com/api/v6/viewer-portal/viewer-settings/donation_settings] to Logitech - 39 upvotes, $200
+Account takeover through CSRF in http://███████/██████████/default.asp to U.S. Dept Of Defense - 39 upvotes, $0
+Path traversal leading to limited CSRF on GET requests on two endpoints to HackerOne - 37 upvotes, $500
+CSRF on cards API to Twitter - 37 upvotes, $280
+CSRF on api.my.games due to improper validation of token allows an attacker to delete other users notifications to Mail.ru - 37 upvotes, $100
+CSRF Vulnerability at https://aw.my.com/ to Mail.ru - 37 upvotes, $0
+CSRF in 'set.php' via age causes stored XSS on 'get.php' - http://www.rockstargames.com/php/videoplayer_cache/get.php' to Rockstar Games - 35 upvotes, $750
+CSRF on https://www.niche.co leads to "account disconnection" to Twitter - 35 upvotes, $0
+Web cache poisoning leads to disclosure of CSRF token and sensitive information to Smule - 35 upvotes, $0
+CSS Injection on /embed/ via bgcolor parameter leaks user's CSRF token and allows for XSS to Chaturbate - 34 upvotes, $999
+HackerOne reports escalation to JIRA is CSRF vulnerable to HackerOne - 34 upvotes, $500
+CSRF To Add New App In Developer Account And Bypassing Json Format to TikTok - 34 upvotes, $200
+Disable 2FA via CSRF (Leads to 2FA Bypass) to Mail.ru - 34 upvotes, $0
+Firmware download/install vulnerable to CSRF to Ubiquiti Inc. - 32 upvotes, $1100
+Cross-Site Request Forgery on the Federalist API (all endpoints), using Flash file on the attacker's host to GSA Bounty - 32 upvotes, $300
+CSRF leads to account deactivation of users to Evernote - 32 upvotes, $300
+Timing attack towards endpoints on the web without CSRF to HackerOne - 32 upvotes, $0
+Cross site scripting - XSRF Token to Nextcloud - 32 upvotes, $0
+CSRF on launchpad.37signals.com OAuth2 authorization endpoint to Basecamp - 31 upvotes, $2000
+Cross-Site Request Forgery (CSRF) to Instacart - 31 upvotes, $100
+Flash CSRF: Update Ad Frequency %: [cp-ng.pinion.gg] to Unikrn - 31 upvotes, $40
+CSRF at [Apply to this program] that lead to submit your request automatic with out any validations to HackerOne - 30 upvotes, $500
+Site-wide CSRF at Atavist to Automattic - 30 upvotes, $200
+gifts.flocktory.com/phpmyadmin is vulnerable csrf to QIWI - 30 upvotes, $100
+Account takeover through multistage CSRF at https://autochoice.fas.gsa.gov/AutoChoice/changeQAOktaAnswer and ../AutoChoice/changePwOktaAnswer to U.S. General Services Administration - 30 upvotes, $0
+Self-Stored XSS - Chained with login/logout CSRF to Zomato - 29 upvotes, $300
+Account takeover just through csrf in https://booking.qiwi.kz/profile to QIWI - 29 upvotes, $100
+CSRF On Connect Account With Github Lead To Account Takeover to Vercel - 29 upvotes, $0
+Site-wide CSRF on eats.uber.com to Uber - 28 upvotes, $6000
+OAuth 2 Authorization Bypass via CSRF and Cross Site Flashing to Vimeo - 28 upvotes, $1000
+CSRF на загрузку аудиозаписей to VK.com - 28 upvotes, $100
+CSRF Vulnerability allows attackers to steal SocialClub private token. to Rockstar Games - 27 upvotes, $600
+Site-wide CSRF on Safari due to CORS misconfiguration (not localhost) to CS Money - 27 upvotes, $300
+JSON CSRF on POST Heartbeats API to WakaTime - 27 upvotes, $0
+CSRF vulnerability that allows an attacker to modify encryption settings to Nextcloud - 27 upvotes, $0
+CSRF in all API endpoints when authenticated using HTTP Authentication to Shopify - 26 upvotes, $1000
+[h1-2102] Wholesale - CSRF to Generate Invitation Token for a Customer and Move Customer to Invited Status to Shopify - 26 upvotes, $500
+CSRF + XSS leads to ATO to Mail.ru - 26 upvotes, $0
+CSRF on draft message creation in tel.mail.ru to Mail.ru - 25 upvotes, $250
+CSRF Vulnerability on post creation page /community/create-post.json to Rockstar Games - 25 upvotes, $150
+TikTok Session Donation CSRF via QR code login to TikTok - 25 upvotes, $111
+Norway - store.starbucks.no - CSRF on email change to Starbucks - 25 upvotes, $0
+CSRF at https://chatstory.pixiv.net/imported to pixiv - 24 upvotes, $500
+Outdated Wordpress installation and plugins at www.uberxgermany.com create CSRF and XSS vulnerabilities to Uber - 24 upvotes, $500
+FileUpload Plugin: CSRF (delete all attached files) to Vanilla - 24 upvotes, $300
+[www.drive2.ru] CSRF through FCTX token bypass to DRIVE.NET, Inc. - 24 upvotes, $0
+Shopify.com Web Cache Deception vulnerability leads to personal information and CSRF tokens leakage to Shopify - 23 upvotes, $800
+CSRF and probable account takeover on https://www.niche.co to Twitter - 23 upvotes, $0
+CSRF Account Deletion on ███ Website to U.S. Dept Of Defense - 23 upvotes, $0
+CSRF in github integration to Slack - 22 upvotes, $500
+Reflected XSS by exploiting CSRF vulnerability on teavana.com wishlist comment module. (wishlist-comments) to Starbucks - 22 upvotes, $375
+Cross-Site Request Forgery (CSRF) to Harvest - 22 upvotes, $100
+CSRF to Cross-site Scripting (XSS) to U.S. Dept Of Defense - 22 upvotes, $0
+CSRF на установку своей почты к аккаунту. to VK.com - 22 upvotes, $0
+CSRF on TikTok Ads Portal to TikTok - 21 upvotes, $1000
+UniFi Video Server web interface Configuration Restore CSRF leading to full application compromise to Ubiquiti Inc. - 21 upvotes, $500
+H1514 CSRF in Domain transfer allows adding your domain to other user's account to Shopify - 21 upvotes, $500
+Wordpress 4.7 - CSRF -> HTTP SSRF any private ip:port and basic-auth to WordPress - 20 upvotes, $750
+CSRF - Close Account to U.S. Dept Of Defense - 20 upvotes, $0
+Persistent CSRF in /GiftCert-AddToBasket prevents purchases on eCommerce sites to Starbucks - 19 upvotes, $750
+Arbitrary change of blog's background image via CSRF to WordPress - 19 upvotes, $350
+CSRF in Raffles Ticket Purchasing to Unikrn - 19 upvotes, $150
+User In The Same Center Can Create CSRF To Change The Information About Business to TikTok - 19 upvotes, $147
+CSRF in changing password after using reset password link to OpenMage - 19 upvotes, $0
+Общий CSRF токен для сообщений сообществ, или как подставить соседа-редактора to VK.com - 18 upvotes, $300
+[tumblr.com] CSRF in /svc/user/filtered_content to Automattic - 18 upvotes, $200
+Self stored Xss + Login Csrf to U.S. Dept Of Defense - 18 upvotes, $0
+SQL Injection on /webApp/sijoitustalousuk email-parameter + potential lack of CSRF Token (viestinta.lahitapiola.fi) to LocalTapiola - 17 upvotes, $1350
+CSRF in attach phone API endpoint on delivery-club.ru to Mail.ru - 17 upvotes, $250
+CSRF log victim into the attacker account to Unikrn - 17 upvotes, $200
+CSRF Проверить является ли пользователь админом группы. to VK.com - 17 upvotes, $100
+Self XSS combine CSRF at https://████████/index.php to U.S. Dept Of Defense - 17 upvotes, $0
+Проверяем принадлеженость email и номера телефона к определенному юзеру / CSRF на смену номера для некоторых пользователей to VK.com - 16 upvotes, $300
+CSRF Add user templates to Mavenlink - 16 upvotes, $150
+Possible CSRF during joining report as participant to HackerOne - 16 upvotes, $0
+CSRF to add admin [wordpress] to WordPress - 15 upvotes, $1337
+Twitter Disconnect CSRF to Shopify - 15 upvotes, $500
+CSRF allows attacker to delete item from customer's "Postilaatikko" to LocalTapiola - 15 upvotes, $500
+Отсутствие CSRF ключа на функции Закрытый Профиль. to ok.ru - 15 upvotes, $250
+Mobile Reflect XSS / CSRF at Advertisement Section on Search page to Pornhub - 15 upvotes, $200
+CSRF - Adding unlimited number of saved items via GET request to Lyst - 15 upvotes, $150
+https://fundl.qiwi.com CSRF на подтверждении sms to QIWI - 15 upvotes, $100
+[cfire.mail.ru] CSRF Bypassed - Changing anyone's 'User Info' to Mail.ru - 15 upvotes, $0
+CSRF allows to test email forwarding to HackerOne - 15 upvotes, $0
+CSRF on Vimeo via cross site flashing leading to info disclosure and private videos go public to Vimeo - 14 upvotes, $750
+CSRF for deleting videos to TikTok - 14 upvotes, $551
+CSRF: Replacing the router configuration backup having an 'operator' user and bypassing the "Referer:' whitelist protection to Ubiquiti Inc. - 14 upvotes, $500
+CSRF token fixation in Sign in with Google to Harvest - 14 upvotes, $250
+CSRF when unlocking lenses leads to lenses being forcefully installed without user interaction to Snapchat - 14 upvotes, $250
+CSRF login to HackerOne - 14 upvotes, $100
+CSRF on change video thumbnail at https://chaturbate.com to Chaturbate - 14 upvotes, $100
+Posting to Twitter CSRF on php/post_twitter_authenticate.php to Zomato - 14 upvotes, $50
+csrf bypass using flash file + 307 redirect method at plugins endpoint to Stripo Inc - 14 upvotes, $0
+CSRF to account takeover in https://███████.mil/ to U.S. Dept Of Defense - 14 upvotes, $0
+CSRF in https://███ to U.S. Dept Of Defense - 14 upvotes, $0
+CSRF on developer.zendesk.com via Cache Deception to Zendesk - 13 upvotes, $500
+CSRF на calendar.mail.ru to Mail.ru - 13 upvotes, $250
+Bypassing CSRF Token On Reply Message & Send Message to Reverb.com - 13 upvotes, $150
+CSRF on lootdog.io to Mail.ru - 13 upvotes, $100
+CSRF на лайк к отзыву (Pandao) to Mail.ru - 13 upvotes, $0
+CSRF to Stored HTML injection at https://www.█████ to U.S. Dept Of Defense - 13 upvotes, $0
+[https://geekbrains.ru/profile] - authenticity_token not tied to user session leads to CSRF attacks to Mail.ru - 13 upvotes, $0
+Triggering RCE using XSS to bypass CSRF in PowerBeam M5 300 to Ubiquiti Inc. - 12 upvotes, $1000
+CSRF on signup endpoint (auto-api.yelp.com) to Yelp - 12 upvotes, $500
+Possible to unsubscribe from activities using CSRF @ mijn.werkenbijdefensie.nl to Radancy - 12 upvotes, $150
+CSRF в m.vk.com to VK.com - 12 upvotes, $100
+CSRF в виджетах to VK.com - 12 upvotes, $100
+Lack of CSRF protection on uberps.com makes every form vulnerable to CSRF to Uber - 11 upvotes, $500
+Bypassing SOP with XSS on account.my.games leading to steal CSRF token and user information to Mail.ru - 11 upvotes, $200
+CSRF на сброс ключа трансляции. to VK.com - 11 upvotes, $100
+Paragonie Airship Admin CSRF on Extensions Pages to Paragon Initiative Enterprises - 11 upvotes, $100
+CSRF Добавить просмотр к записи без ведома пользователя. to VK.com - 11 upvotes, $100
+CSRF на покупку товара https://lootdog.io/ to Mail.ru - 11 upvotes, $100
+CSRF in Udemy.com to Udemy - 11 upvotes, $25
+Possible CSRF during external programs to HackerOne - 11 upvotes, $0
+CSRF- delete all empty server policy to New Relic - 11 upvotes, $0
+CSRF - Modify Project Settings to Stripo Inc - 11 upvotes, $0
+CSRF possible when SOP Bypass/UXSS is available to HackerOne - 10 upvotes, $2500
+login csrf in analytics.mopub.com to Twitter - 10 upvotes, $280
+CSRF: add item to victim's cart automatically (starbucks.com - updatecart) to Starbucks - 10 upvotes, $250
+CSRF vulnerability in saving payment card on store.starbucks.com (COBilling -AddCreditCard) to Starbucks - 10 upvotes, $150
+Found CSRF Vulnerability in https://support.rockstargames.com/ to Rockstar Games - 10 upvotes, $150
+CSRF possible when SOP Bypass/UXSS is available to LocalTapiola - 10 upvotes, $50
+CSRF in adding phrase. to Localize - 10 upvotes, $0
+Account Takeover using Third party Auth CSRF to Weblate - 10 upvotes, $0
+CSRF на отправку вопроса на [games.mail.ru] to Mail.ru - 10 upvotes, $0
+CSRF - Modify Company Info to U.S. Dept Of Defense - 10 upvotes, $0
+The vulnerabilities found were XSS, Public disclosure, Network enumeration via CSRF, DLL hijacking. to Zomato - 10 upvotes, $0
+CSRF to Cross-site Scripting (XSS) to U.S. Dept Of Defense - 10 upvotes, $0
+Widespread CSRF on authenticated POST endpoints to UPchieve - 10 upvotes, $0
+Add tweet to collection CSRF to Twitter - 9 upvotes, $560
+CSRF в получении резервных токенов+framing , приводящие к компроментации 2fa to VK.com - 9 upvotes, $500
+CSRF | Ban or unban users in broadcast's chat to Valve - 9 upvotes, $500
+[chaturbate.com] - CSRF Vulnerability on image upload to Chaturbate - 9 upvotes, $300
+CSRF in Report Lost or Stolen Page https://www.starbucks.com/account/card to Starbucks - 9 upvotes, $250
+CSRF in REPORT EMOTICON feature to Chaturbate - 9 upvotes, $250
+csrf in https://www.rockstargames.com/reddeadonline/feedback/submit.json to Rockstar Games - 9 upvotes, $150
+CSRF отредактировать карточки в посте у группы to VK.com - 9 upvotes, $100
+CSRF logs the victim into attacker's account to Unikrn - 9 upvotes, $100
+CSRF на добавление товара на продажу to Mail.ru - 9 upvotes, $100
+Cross Site Request Forgery (CSRF) to Mail.ru - 9 upvotes, $0
+CSRF Full Account Takeover to Concrete CMS - 9 upvotes, $0
+Twitter Disconnect CSRF to Zomato - 9 upvotes, $0
+CSRF Send a message at street-combats.mail.ru to Mail.ru - 9 upvotes, $0
+CSRF to Mixmax - 9 upvotes, $0
+Login CSRF : Login Authentication Flaw to Weblate - 9 upvotes, $0
+CSRF Full Account Takeover - https://redtube.com/settings to Redtube - 9 upvotes, $0
+vulnerable to Cross-site Request Forgery | Jira to MariaDB - 9 upvotes, $0
+Missing CSRF Token On Remove Coupun From Cart to Starbucks - 9 upvotes, $0
+CSRF уязвимость позволяет взять беспроцентный кредит пользователю cfire.mail.ru to Mail.ru - 9 upvotes, $0
+No CSRF Protection in Resend Confirmation Email feature leads to Sending Unwanted Email in Victim's Inbox without knowing Victim's email address to Stripo Inc - 9 upvotes, $0
+CSRF Based XSS @ https://██████████ to U.S. Dept Of Defense - 9 upvotes, $0
+RCE in AirOS 6.2.0 Devices with CSRF bypass to Ubiquiti Inc. - 8 upvotes, $6839
+CSRF in login form would led to account takeover to Ubiquiti Inc. - 8 upvotes, $500
+account.ubnt.com CSRF to Ubiquiti Inc. - 8 upvotes, $200
+CSRF Delete chat invitation link. to Mail.ru - 8 upvotes, $100
+CSRF in the "Add restaurant picture" function to Zomato - 8 upvotes, $50
+CSRF in account configuration leads to complete account compromise to OLX - 8 upvotes, $0
+CSRF to change Account Security Keys on secure.login.gov to GSA Bounty - 8 upvotes, $0
+CSRF in twitterflightschool.com ( CAN POST ON TIMELINE WITHOUT USER PERMISSION) to Twitter - 8 upvotes, $0
+CSRF token fixation and potential account takeover to Khan Academy - 8 upvotes, $0
+Application Vulnerable to CSRF - Remove Invited user to Infogram - 8 upvotes, $0
+Missing CSRF Token On Add Coupon To Basket to Starbucks - 8 upvotes, $0
+Authenticated Cross-Site-Request-Forgery to Semmle - 8 upvotes, $0
+CSRF on https://market.my.games to Mail.ru - 8 upvotes, $0
+Cross-Site WebSocket Hijacking Lead to Steal XSRF-TOKEN to Stripo Inc - 8 upvotes, $0
+Stored unauth XSS in calendar event via CSRF to Concrete CMS - 8 upvotes, $0
+CSRF - Delete Account (Urgent) to U.S. Dept Of Defense - 8 upvotes, $0
+Limited CSRF bypass. to HackerOne - 7 upvotes, $500
+Missing of csrf protection to Shopify - 7 upvotes, $500
+CSRF exploit | Adding/Editing comment of wishlist items (teavana.com - Wishlist-Comments) to Starbucks - 7 upvotes, $375
+CSRF на "ловлю гостей" и раскрытие аудиотрансляции в частной группе to VK.com - 7 upvotes, $100
+[CRITICAL] CSRF leading to account take over to drchrono - 7 upvotes, $50
+CSRF To change Email Notification Settings to Instacart - 7 upvotes, $50
+CSRF bypass + XSS on verkkopalvelu.tapiola.fi to LocalTapiola - 7 upvotes, $50
+Private Project Access Request Invitation Sent Via CSRF to Localize - 7 upvotes, $0
+CSRF vulnerability that allows an attacker to purge plugin metric data to New Relic - 7 upvotes, $0
+CSRF to Connect third party Account to Weblate - 7 upvotes, $0
+CSRF For Adding Users to New Relic - 7 upvotes, $0
+csrf token did not changed after login/logout many times to Liberapay - 7 upvotes, $0
+[out-of-scope] toxiproxy: Lack of CSRF protection allows an attacker to gain access to internal Shopify network to Shopify - 7 upvotes, $0
+Imperfect CSRF To Overwrite Server Config at /go/admin/restful/configuration/file/POST/xml to GoCD - 7 upvotes, $0
+CSRF на загрузку изображения Pandao to Mail.ru - 7 upvotes, $0
+CSRF on /subscription_manage.php endpoint at allods.mail.ru to Mail.ru - 7 upvotes, $0
+CSRF to account takeover in https://█████/ to U.S. Dept Of Defense - 7 upvotes, $0
+CSRF on delete friend requests - Not protected with CSRF Token to XVIDEOS - 7 upvotes, $0
+CSRF in cancel group and private show requests to Chaturbate - 6 upvotes, $300
+WordPress core - Denial of Service via Cross Site Request Forgery to WordPress - 6 upvotes, $250
+CSRF in "send them an email and browser notification" feature to Chaturbate - 6 upvotes, $150
+Security Issue : CSRF Token Design Flaw to drchrono - 6 upvotes, $100
+CSRF @ configuration to Files.com - 6 upvotes, $100
+CSRF to Legal Robot - 6 upvotes, $20
+Sign-up Form CSRF to Localize - 6 upvotes, $0
+CSRF - Delete all empty application policy to New Relic - 6 upvotes, $0
+CSRF Token Bypass in Account Deletion to GitLab - 6 upvotes, $0
+CSRF in delete advertisement on olx.com.eg to OLX - 6 upvotes, $0
+Logout CSRF to Weblate - 6 upvotes, $0
+CSRF : Reset API to Weblate - 6 upvotes, $0
+CSRF bug to Bumble - 6 upvotes, $0
+CSRF создание опроса от имени пользователя, зная id приложения. + небольшой флуд сообщениями на стену to VK.com - 6 upvotes, $0
+Account takeover due to CSRF in "Account details" option on █████████ to U.S. Dept Of Defense - 6 upvotes, $0
+CSRF при вводе промокода на Pandao to Mail.ru - 6 upvotes, $0
+Cross Site Request Forgery in auth in https://auth.ratelimited.me/ to RATELIMITED - 6 upvotes, $0
+███████mill is vulnerable to cross site request forgery that leads to full account take over. to U.S. Dept Of Defense - 6 upvotes, $0
+Non-changing "_idnonce" value leads to CSRF on accounts at https://intensedebate.com for account takeover to Automattic - 6 upvotes, $0
+Data-Tags and the New HTML Sanitizer Subverts CSRF protection to Ruby on Rails - 5 upvotes, $2000
+CSRF at adding new role (user-management.service.newrelic.com) to New Relic - 5 upvotes, $1500
+Full account takeover using CSRF and password reset to IRCCloud - 5 upvotes, $500
+Stealing CSRF Tokens to Keybase - 5 upvotes, $500
+[CRITICAL] CSRF leading to account take over to Zendesk - 5 upvotes, $500
+CSRF - Add optional two factor mobile number to Slack - 5 upvotes, $500
+Critical : Account removing using CSRF attack to WePay - 5 upvotes, $350
+The PdfServlet-functionality used by the "Tee vakuutustodistus" allows injection of custom PDF-content via CSRF-attack to LocalTapiola - 5 upvotes, $300
+CSRF Attack on (m.badoo.com)deleting account and erasing imported contacts to Bumble - 5 upvotes, $280
+CSRF. Удаление адресной книги, добавление контактов to Mail.ru - 5 upvotes, $250
+CSRF in Profile Fields allows deleting any field in BuddyPress to WordPress - 5 upvotes, $225
+CSRF bypass on Submit Time sheet for Approval to Harvest - 5 upvotes, $150
+CSRF token leakage to Enter - 5 upvotes, $0
+Unauthenticated CSRF(User can input any value for CSRF Token) to Veris - 5 upvotes, $0
+Create Multiple Account Using Similar X-CSRF token to Coinbase - 5 upvotes, $0
+CSRF AT INVITING PEOPLE THOUGH PHONE NUMBER to Zomato - 5 upvotes, $0
+CSRF in Cloudflare login to Cloudflare Vulnerability Disclosure - 5 upvotes, $0
+Cross-site request forgery vulnerability on a DoD website to U.S. Dept Of Defense - 5 upvotes, $0
+CSRF To Like/Unlike Photos to Zomato - 5 upvotes, $0
+Csrf in watch-unwatch projects to Weblate - 5 upvotes, $0
+CSRF на biz.mail.ru to Mail.ru - 5 upvotes, $0
+Issue:Form does not contain an anti-CSRF token to Phabricator - 5 upvotes, $0
+relap.io CSRF bypass on adding domain to use relap widgets to Mail.ru - 5 upvotes, $0
+Send Empty CSRF leads to log out user on [https://hosted.weblate.org/accounts/profile] to Weblate - 5 upvotes, $0
+CSRF in updating username https://pw.mail.ru/ to Mail.ru - 5 upvotes, $0
+CodeQL query for finding CSRF vulnerabilities in Spring applications to GitHub Security Lab - 4 upvotes, $1800
+CSRF at acknowledging an incident to New Relic - 4 upvotes, $750
+CSRF AT SUBSCRIBE TO LIST to Paragon Initiative Enterprises - 4 upvotes, $0
+The 'Create a New Account' action is vulnerable to CSRF to Coinbase - 4 upvotes, $0
+CSRF in changing settings of Basic Google Maps Placemarks to Ian Dunn - 4 upvotes, $0
+[allods.mail.ru] Cross-Site Request Forgery (Add-Item) to Mail.ru - 4 upvotes, $0
+CSRF : Lock and Unlock Translation to Weblate - 4 upvotes, $0
+CSRF bypass ( Delate Source Translation From dictionaries ) in demo.weblate.org to Weblate - 4 upvotes, $0
+Cross-site request forgery (CSRF) vulnerability in a DoD website to U.S. Dept Of Defense - 4 upvotes, $0
+csrf blogs.starbucks.com to Starbucks - 4 upvotes, $0
+CSRF-Token leak by request forgery to GitLab - 4 upvotes, $0
+CSRF in generating a new Personal Key to GSA Bounty - 4 upvotes, $0
+CSRF to make any user accept the invitation to the team to Liberapay - 4 upvotes, $0
+CSRF на удаление товара из корзины to Mail.ru - 4 upvotes, $0
+Request vulnerable to CSRF to Phabricator - 4 upvotes, $0
+CSRF on https://apps.topcoder.com/wiki/users general and email preferences to Topcoder - 4 upvotes, $0
+[express-cart] Wide CSRF in application to Node.js third-party modules - 4 upvotes, $0
+CSRF on https://apps.topcoder.com/wiki/pages/doattachfile.action to Topcoder - 4 upvotes, $0
+Self XSS + CSRF Leads to Reflected XSS in https://████/ to U.S. Dept Of Defense - 4 upvotes, $0
+Leaking CSRF token over HTTP resulting in CSRF protection bypass to Coinbase - 3 upvotes, $1000
+Login CSRF using Twitter OAuth to Phabricator - 3 upvotes, $300
+Internal GET SSRF via CSRF with Press This scan feature to Automattic - 3 upvotes, $250
+Resubmitted with POC #18685 Password reset CSRF to RelateIQ - 3 upvotes, $190
+Login CSRF can be bypassed (Similar approach to previous one). to IRCCloud - 3 upvotes, $100
+Akismet Several CSRF vulnerabilities to Automattic - 3 upvotes, $75
+CSRF token does not valided during blog comment to Paragon Initiative Enterprises - 3 upvotes, $25
+csrf to Slack - 3 upvotes, $0
+Unwanted Spamming Using CSRF [LOGGED IN USER] to IRCCloud - 3 upvotes, $0
+CSRF to Account Take Over Bug to IRCCloud - 3 upvotes, $0
+CSRF AT SELECTING ZAMATO HANDLE to Zomato - 3 upvotes, $0
+CSRF on eng.uber.com may lead to server-side compromise to Uber - 3 upvotes, $0
+Newsroom.uber HTML form without CSRF protection to Uber - 3 upvotes, $0
+No CSRF validation on Account Monitors in Synthetics Block to New Relic - 3 upvotes, $0
+The contribution save option seem to be vulnerable to CSRF to Gratipay - 3 upvotes, $0
+Login CSRF vulnerability to New Relic - 3 upvotes, $0
+CSRF csrftoken in cookies to Gratipay - 3 upvotes, $0
+Csrf on creating course to Udemy - 3 upvotes, $0
+CSRF - Changing the full name / adding a secondary email identity of an account via a GET request to Weblate - 3 upvotes, $0
+Cross-site request forgery (CSRF) vulnerability on a DoD website to U.S. Dept Of Defense - 3 upvotes, $0
+Add movie or series CSRF to delight.im - 3 upvotes, $0
+Same CSRF token is being used for deleting other platform login’s within an account and across other liberapay Account’s to Liberapay - 3 upvotes, $0
+CSRF ON EDITING NAME (OPTIONAL) to Liberapay - 3 upvotes, $0
+CSRF token manipulation in every possible form submits. NO server side Validation to Liberapay - 3 upvotes, $0
+Missing CSRF Protection in /stats EndPoint. to Chaturbate - 3 upvotes, $0
+XSRF Token is Not being validated when sending emails test request which lead to CSRF attack using the flash file + 307 redirect technique to Stripo Inc - 3 upvotes, $0
+CSRF on https://apps.topcoder.com/wiki/users/editmyprofile.action to Topcoder - 3 upvotes, $0
+Cross-Site Request Forgery (CSRF) in my.games API to Mail.ru - 3 upvotes, $0
+Cross-Site Request Forgery (CSRF) in comment update - api.my.games to Mail.ru - 3 upvotes, $0
+CSRF on comment post to WordPress - 3 upvotes, $0
+tracker.my.com information disclosure via csrf bypass to Mail.ru - 3 upvotes, $0
+CSRF on https://apps.topcoder.com/wiki/users/editmyprofilepicture.action to Topcoder - 3 upvotes, $0
+CSRF in Demographic Settings with valid gdtoken of other account to Glassdoor - 3 upvotes, $0
+CSRF Vulnerabiliy on Facebook Linkage Page Allows Full Account takerover of Socialclub Accounts. to Rockstar Games - 2 upvotes, $550
+CSRF on https://shopify.com/plus to Shopify - 2 upvotes, $500
+Обход защиты от csrf-ок в m.ok.ru to ok.ru - 2 upvotes, $500
+[HIGH RISK] CSRF could potentially delete a zendesk subdomain. to Zendesk - 2 upvotes, $500
+Sign up CSRF to IRCCloud - 2 upvotes, $100
+Value of JSESSIONID and XSRF token parameter in cookie remains same before and after login to RelateIQ - 2 upvotes, $100
+CSRF on "Set as primary" option on the accounts page to Coinbase - 2 upvotes, $100
+CSRF vulnerability on https://sehacure.slack.com/account/settings to Slack - 2 upvotes, $100
+Marking notifications as read CSRF bug to HackerOne - 2 upvotes, $100
+CSRF Add Album On onpatient.com to drchrono - 2 upvotes, $100
+The csrf token remains same after user logs in to Enter - 2 upvotes, $50
+Using GET method for account login with CSRF token leaking to external sites Via Referer. to Zaption - 2 upvotes, $25
+Login CSRF in Secret.ly to Secret - 2 upvotes, $0
+logout csrf app.simplenote.com/logout to Automattic - 2 upvotes, $0
+HTML form without CSRF protection to Automattic - 2 upvotes, $0
+csrf on password change functionality to Cloudflare Vulnerability Disclosure - 2 upvotes, $0
+Notifications can mark as read by CSRF to Twitter - 2 upvotes, $0
+[mobile.twitter.com / twitter.com] CSRF protection bypass to Twitter - 2 upvotes, $0
+The product/status method CSRF to DigitalSellz - 2 upvotes, $0
+CSRF in apps.owncloud.com to ownCloud - 2 upvotes, $0
+don't store CSRF tokens in cookies to Gratipay - 2 upvotes, $0
+Lost Password CSRF to Nextcloud - 2 upvotes, $0
+Multiple Cross Site Request Forgery Vulnerabilities in Concrete5 version 5.7.3.1 to Concrete CMS - 2 upvotes, $0
+Full path disclosure when CSRF validation failed to Paragon Initiative Enterprises - 2 upvotes, $0
+Full Path Disclosure by removing CSRF token to Paragon Initiative Enterprises - 2 upvotes, $0
+CSRF with redeem coupon request to Instacart - 2 upvotes, $0
+CSRF token validation is missing to Nextcloud - 2 upvotes, $0
+Logout CSRF to delight.im - 2 upvotes, $0
+Login Cross Site Request Forgery to Infogram - 2 upvotes, $0
+CSRF on https://apps.topcoder.com/wiki/plugins/socialbookmarking/updatebookmark.action to Topcoder - 2 upvotes, $0
+CSRF header is sent to external websites when using data-remote forms to Ruby on Rails - 2 upvotes, $0
+Logout page does not prevent CSRF to Courier - 2 upvotes, $0
+Authenticity token doesnt expire after single use leading to CSRF to Omise - 2 upvotes, $0
+rails-ujs will send CSRF tokens to other origins to Ruby on Rails - 1 upvotes, $1000
+CSRF token fixation in facebook store app that can lead to adding attacker to victim acc to Shopify - 1 upvotes, $500
+CSRF in Connecting Pinterest Account to Shopify - 1 upvotes, $500
+CSRF on email address operations. Also performing unintended operations. to WePay - 1 upvotes, $150
+CSRF on add comment section to Slack - 1 upvotes, $0
+HTML Form Without CSRF protection to Localize - 1 upvotes, $0
+No Cross-Site Request Forgery protection at multiple locations to Localize - 1 upvotes, $0
+Group Deletion Via CSRF to Localize - 1 upvotes, $0
+Group Creation Via CSRF to Localize - 1 upvotes, $0
+Private Project Access Request Accpeted Via CSRF to Localize - 1 upvotes, $0
+CSRF - Adding/Removing items to cart - shop.khanacademy.org to Khan Academy - 1 upvotes, $0
+Projects Watch or Notifications Settings Change Via CSRF to Localize - 1 upvotes, $0
+Sign up CSRF to Factlink - 1 upvotes, $0
+User Account Creation CSRF to IRCCloud - 1 upvotes, $0
+CSRF token valid even after the session logout of a particular user to Phabricator - 1 upvotes, $0
+Login CSRF using Twitter oauth to Factlink - 1 upvotes, $0
+CSRF and No password requirement in this URL Billing Info to Cloudflare Vulnerability Disclosure - 1 upvotes, $0
+CSRF - Disabling orders at https://panel.stopthehacker.com/manage/disable-order/order/ID to StopTheHacker - 1 upvotes, $0
+CSRF & Nonce Token Weak Implementation to WePay - 1 upvotes, $0
+System Status Update CSRF to Cloudflare Vulnerability Disclosure - 1 upvotes, $0
+Clickjacking & CSRF attack can be done at https://app.mavenlink.com/login to Mavenlink - 1 upvotes, $0
+CSRF bypass to Vimeo - 1 upvotes, $0
+CSRF token from another valid user session accepted to Mobile Vikings - 1 upvotes, $0
+A csrf vulnerability which add and remove a favorite team from a user account. to Yahoo! - 1 upvotes, $0
+No CSRF protection when creating new community points actions, and related stored XSS to Concrete CMS - 1 upvotes, $0
+owncloud.com: Account Compromise Through CSRF to ownCloud - 1 upvotes, $0
+The Anti-CSRF Library fails to restrict token to a particular IP address when being behind a reverse-proxy/WAF to Paragon Initiative Enterprises - 1 upvotes, $0
+ProBlog 2.6.6 CSRF Exploit to Concrete CMS - 1 upvotes, $0
+XSS and CSRF in Zomato Contact form to Zomato - 1 upvotes, $0
+Missing Server Side Validation of CSRF Middleware Token in Change Password Request to Veris - 1 upvotes, $0
+CSRF - Regenerate all admin api keys to New Relic - 1 upvotes, $0
+No csrf protection on logout to Boozt Fashion AB - 1 upvotes, $0
+[community.informatica.com] - CSRF in Private Messages allows to move user's messages to Trash to Informatica - 1 upvotes, $0
+Udemy s3 storage can be used by an attacker personal website because of missing CSRF Token to Udemy - 1 upvotes, $0
+Lack of CSRF token validation at server side to Gratipay - 1 upvotes, $0
+CSRF on cuvva.insure allows to attacker to send multiple SMS to download the app without visiting the cuvva to Cuvva - 1 upvotes, $0
+Login csrf. to Gratipay - 1 upvotes, $0
+Csrf bug on signup session to Coinbase - 1 upvotes, $0
+The csrf token remains same after user logs in to Liberapay - 1 upvotes, $0
+Csrf token does not meet security design to Liberapay - 1 upvotes, $0
+Cross-Site Request Forgery to Mail.ru - 1 upvotes, $0
+CSRF allows attacker to manage customer's shopping cart. to TomTom - 1 upvotes, $0
+Social Oauth Disconnect CSRF at znakcup.ru to Mail.ru - 1 upvotes, $0
+CSRF in newsletter form to Sifchain - 1 upvotes, $0
+CSRF - Modify User Settings with one click - Account TakeOver to U.S. Dept Of Defense - 1 upvotes, $0
+CSRF Token missing on http://baseball.fantasysports.yahoo.com/b1/127146/messages to Yahoo! - 0 upvotes, $400
+CSRF Token is missing on DELETE message option on http://baseball.fantasysports.yahoo.com/b1/127146/messages to Yahoo! - 0 upvotes, $200
+XSRF token problem to RelateIQ - 0 upvotes, $100
+Login CSRF to IRCCloud - 0 upvotes, $100
+CSRF in function "Set as primary" on accounts page to Coinbase - 0 upvotes, $100
+Login CSRF to Mavenlink - 0 upvotes, $100
+HTML Form without CSRF protection to IRCCloud - 0 upvotes, $0
+CSRF - Creating accounts to IRCCloud - 0 upvotes, $0
+Change user settings through CSRF to Localize - 0 upvotes, $0
+No CSRF token used in Phone Verification POST to Mail.ru - 0 upvotes, $0
+Log Out Cross site Request Forgery to IRCCloud - 0 upvotes, $0
+NO CSRF token found on user details update to FanFootage - 0 upvotes, $0
+HTML Form Without CSRF Protection Vulnerability to Uzbey - 0 upvotes, $0
+Typical form vulnerable to csrf attack to WePay - 0 upvotes, $0
+CSRF in crashlytics.com to Twitter - 0 upvotes, $0
+CSRF (Make email primary) may lead to account compromise to WePay - 0 upvotes, $0
+HTML form without CSRF protection at http://try.crashlytics.com/enterprise/ to Twitter - 0 upvotes, $0
+No csrf protection on index.php/ccm/system/user/add_group, index.php/ccm/system/user/remove_group to Concrete CMS - 0 upvotes, $0
+Csrf near report abuse meme to Imgur - 0 upvotes, $0
+The csrf token remains same after user logs in to ownCloud - 0 upvotes, $0
+Login CSRF using Google OAuth to ThisData - 0 upvotes, $0
+apps.owncloud.com: CSRF change privacy settings to ownCloud - 0 upvotes, $0
+CSRF Token to Udemy - 0 upvotes, $0
+CSRF Issue to Legal Robot - 0 upvotes, $0
+CSRF bug on password change to Coinbase - 0 upvotes, $0
+CSRF Token Design Flaw to Udemy - 0 upvotes, $0
+Logout CSRF to WakaTime - 0 upvotes, $0
+Cross site request forgery to Hiro - 0 upvotes, $0
